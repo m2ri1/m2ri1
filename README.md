@@ -1,4 +1,5 @@
-# Hi there🐱
+# Hi there!🐱
+오늘 내가 뭐 공부했게
 
 <!--
 **m2ri1/m2ri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
